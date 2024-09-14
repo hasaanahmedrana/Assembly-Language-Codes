@@ -1,3 +1,4 @@
+; tells if the entered number is prime or not
 .model small
 .stack 100h
 .386
